@@ -1,0 +1,6 @@
+1513765140435	geckodriver	INFO	Listening on 127.0.0.1:51464
+1513765141036	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.xcpUKM2YPtjf
+1513765141040	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1513765141047	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51468
+1513765142342	Marionette	INFO	Listening on port 51468
+JavaScript error: http://mail.163.com/, line 711: ReferenceError: URS is not defined
